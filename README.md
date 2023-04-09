@@ -1,5 +1,7 @@
 # C_Algos_Projects
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1920px-The_C_Programming_Language_logo.svg.png" alt="Logo C" width="200">
+
 Ce dépôt contient une collection de projets et d'exercices en langage C réalisés par [nolancacheux](https://github.com/nolancacheux). Les projets sont organisés en plusieurs dossiers, chacun correspondant à un sujet spécifique. 
 
 Voici une brève description de chaque dossier :
