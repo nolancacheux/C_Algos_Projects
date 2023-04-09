@@ -1,6 +1,8 @@
 # C_Algos_Projects
 
-Ce dépôt contient une collection de projets et d'exercices en C réalisés par Nolan Cacheux. Les projets couvrent plusieurs sujets, tels que les arbres, les listes chaînées, les piles, etc. Les exercices sont regroupés par thème et chaque dossier contient les fichiers sources ainsi que les exécutables.
+Ce dépôt contient une collection de projets et d'exercices en langage C réalisés par [nolancacheux](https://github.com/nolancacheux). Les projets sont organisés en plusieurs dossiers, chacun correspondant à un sujet spécifique. 
+
+Voici une brève description de chaque dossier :
 
 ## Contenu du dépôt
 
